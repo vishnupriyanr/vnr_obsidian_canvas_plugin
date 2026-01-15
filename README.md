@@ -1,0 +1,1 @@
+# vnr_obsidian_canvas_plugin
