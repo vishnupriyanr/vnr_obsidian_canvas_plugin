@@ -12,15 +12,14 @@ A plugin that helps you navigate and manage connections between nodes on Obsidia
 
 ## Installation
 
-1. Download the latest `obsidian-connection-navigator.zip` from this repository
-2. Extract the zip file - you'll get a folder called `obsidian-connection-navigator`
-3. Rename the folder to `connection-navigator`
-4. Open your Obsidian vault folder and navigate to `.obsidian/plugins/`
+1. Download the latest `connection-navigator.zip` from this repository
+2. Extract the zip file - you'll get a folder called `connection-navigator`
+3. Open your Obsidian vault folder and navigate to `.obsidian/plugins/`
    - If the `plugins` folder doesn't exist, create it
-5. Move the `connection-navigator` folder into the `plugins` folder
-6. Open Obsidian and go to **Settings → Community plugins**
-7. Make sure "Restricted mode" is turned OFF
-8. Find "Connection Navigator" in the list and toggle it ON
+4. Move the `connection-navigator` folder into the `plugins` folder
+5. Open Obsidian and go to **Settings → Community plugins**
+6. Make sure "Restricted mode" is turned OFF
+7. Find "Connection Navigator" in the list and toggle it ON
 
 ## Usage
 
